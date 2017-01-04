@@ -9,7 +9,7 @@
     tools:context="com.example.george.lab1.ListViewTest">
 
     <TextView
-        android:text="Modify movie details:"
+        android:text="Edit default message below:"
         android:layout_width="307dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="50dp"
